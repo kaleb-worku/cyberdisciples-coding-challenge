@@ -1,2 +1,2 @@
-# cyberdisciples-coding-challenge
+# cyber-disciples-coding-challenge
 In April 2025, I learned the Rust programming language and, with the assistance of generative AI, created a program in Rust that prints a static image to the screen with a verse from the New International Version translation of the Bible in the center of the image. This coding challenge is part of my affiliation with the Cyber Disciples small group at Stevens Creek Church.
